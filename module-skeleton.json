@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-revenue-recognition-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-revenue-recognition",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-revenue-recognition-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/revenue-recognition.md",
+  "presentationPlan": "projects/accounting/nuxt/revenue-recognition.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
